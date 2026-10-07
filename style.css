@@ -76,11 +76,14 @@ body {
     body {
         padding-right: 0;
         justify-content: center;
+        background-size: auto 100%;
+        background-position: center;
     }
     .profile-card {
         width: 80%;
         min-height: 300px;
         transform: none;
+        left: 0;
     }
 }
 
