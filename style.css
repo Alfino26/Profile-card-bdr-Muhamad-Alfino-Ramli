@@ -76,9 +76,9 @@ body {
     body {
         padding-right: 0;
         justify-content: center;
-        background-size: 150% auto;
-        background-position: center;
-        background-color: #111;
+        background-size: cover;
+        background-position: 65% center;
+       
     }
     .profile-card {
         width: 80%;
