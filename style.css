@@ -74,11 +74,12 @@ body {
 /* tampilan hp potrait */
 @media (max-width: 600px) {
     body {
-        padding-right: 0;
-        justify-content: center;
-        background-size: cover;
-        background-position: 65% center;
-       
+       background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),url("jet potrait.jpeg");
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       padding-right: 0;
+       justify-content: center;
     }
     .profile-card {
         width: 80%;
